@@ -1,0 +1,38 @@
+
+body{
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         background-color: lightgreen;
+         
+    }    
+  
+          header{
+        font-size: x-large;
+        font-weight: bold;
+        margin: 20px 30px;
+        text-align: center;
+        padding: 10px 20px;
+        color: blue;
+        border:blue;
+          }
+      footer{
+        font-size: x-small;
+        font-style: italic;
+        
+      }
+      
+      img { 
+        border: 10px solid transparent;
+        padding: 15px;
+        border-image: url(border.png) 30 stretch;
+      } 
+
+     
+  
+      .some{
+        font-size:25px;
+        color:brown;
+      }
+
+      #name{
+        color:orangered
+      }
